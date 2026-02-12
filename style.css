@@ -241,7 +241,7 @@
     }
 
     .my-info h3 {
-        display: none; /* hide "Message me here" on mobile */
+        font-size: 20px; /* hide "Message me here" on mobile */
     }
 
     .social-app {
@@ -263,4 +263,5 @@
         height: auto; /* keep aspect ratio */
     }
 }
+
 
